@@ -6,7 +6,6 @@ int main(){
 
     int *ptr;
     int c = 10;
-
     ptr = &c;
 
     printf("Direccion del puntero %p", ptr);
